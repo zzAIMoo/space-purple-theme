@@ -1,0 +1,22 @@
+{
+    "name": "space-purple",
+    "displayName": "space-purple",
+    "description": "Different shades of purple based on personal preferences",
+    "version": "0.0.1",
+    "publisher": "zzaimoo",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Space Purple",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Space Purple-color-theme.json"
+            }
+        ]
+    }
+}
