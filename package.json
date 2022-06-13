@@ -7,8 +7,9 @@
     "engines": {
         "vscode": "^1.68.0"
     },
+    "icon": "images/icon/purple_space_logo.png",
     "author": {
-        "name": "zzaimoo",
+        "name": "zzAIMoo",
         "email": "simone.sechi24@gmail.com",
         "url": "https://github.com/zzAIMoo"
     },
