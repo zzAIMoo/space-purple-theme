@@ -2,10 +2,19 @@
     "name": "space-purple",
     "displayName": "space-purple",
     "description": "Different shades of purple based on personal preferences",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "zzaimoo",
     "engines": {
         "vscode": "^1.68.0"
+    },
+    "author": {
+        "name": "zzaimoo",
+        "email": "simone.sechi24@gmail.com",
+        "url": "https://github.com/zzAIMoo"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zzAIMoo/space-purple-theme"
     },
     "categories": [
         "Themes"
@@ -13,9 +22,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Space Purple",
+                "label": "Space Purple Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Space Purple-color-theme.json"
+                "path": "./themes/space-purple-color-theme-dark.json"
+            },
+            {
+                "label": "Space Purple Light",
+                "uiTheme": "vs",
+                "path": "./themes/space-purple-color-theme-light.json"
             }
         ]
     }
