@@ -1,8 +1,8 @@
 {
     "name": "space-purple",
-    "displayName": "space-purple",
-    "description": "Different shades of purple based on personal preferences",
-    "version": "0.1.0",
+    "displayName": "Space Purple",
+    "description": "Yet another purple theme to satisfy myself (and maybe you too!). More to come in the future (currently working on a Light version). Feel free to send suggestions through my email/github. Stay drippy ☔",
+    "version": "0.7.1",
     "publisher": "zzaimoo",
     "engines": {
         "vscode": "^1.68.0"
@@ -15,10 +15,20 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zzAIMoo/space-purple-theme"
+        "url": "https://github.com/zzAIMoo/space-purple-theme.git"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Purple Space",
+        "Dark Theme",
+        "Violet",
+        "Magenta",
+        "Purple",
+        "Liliac",
+        "Lilac",
+        "Indigo"
     ],
     "contributes": {
         "themes": [
