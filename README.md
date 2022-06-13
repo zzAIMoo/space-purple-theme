@@ -15,5 +15,5 @@
 </p>
 
 More to come in the future (currently working on a Light version).
-Feel free to send suggestions through my [Email](mailto:simone.sechi24@gmail.com?subject=[GitHub]%20Space%20Purple%20Suggestion)/[Github](https://www.google.com).
+Feel free to send suggestions through my [Email](mailto:simone.sechi24@gmail.com?subject=[GitHub]%20Space%20Purple%20Suggestion)/[Github](https://github.com/zzAIMoo/space-purple-theme).
 **Stay drippy** ☔
