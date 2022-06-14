@@ -2,7 +2,7 @@
     "name": "space-purple",
     "displayName": "Space Purple",
     "description": "Yet another purple theme to satisfy myself (and maybe you too!). More to come in the future (currently working on a Light version). Feel free to send suggestions through my email/github. Stay drippy ☔",
-    "version": "0.7.3",
+    "version": "0.8.0",
     "publisher": "zzaimoo",
     "engines": {
         "vscode": "^1.68.0"
@@ -22,6 +22,7 @@
     ],
     "keywords": [
         "Purple Space",
+        "Light Theme",
         "Dark Theme",
         "Violet",
         "Magenta",
