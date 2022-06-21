@@ -2,6 +2,11 @@
 	"name": "Space Purple Dark",
 	"type": "dark",
 	"semanticHighlighting": true,
+	"rules": [
+		{
+			"": "#00FF00"
+		} // green <- this is the property! background of right part (scrollbar)
+	],
 	"semanticTokenColors": {
 		"enumMember": {
 			"foreground": "#7e9fde"
@@ -1848,7 +1853,6 @@
 		"foreground": "#cccccc",
 		"focusBorder": "#c895df1c",
 		"selection.background": "#8c619f",
-		"scrollbar.shadow": "#000000",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.background": "#3b205a",
 		"activityBar.inactiveForeground": "#ffffff66",
@@ -1943,7 +1947,7 @@
 		"editorBracketMatch.background": "#0064001a",
 		"editorBracketMatch.border": "#c895df",
 		"editor.foldBackground": "#23655f48",
-		"editorOverviewRuler.background": "#25252500",
+		"editorOverviewRuler.background": "#3B205A",
 		"editorOverviewRuler.border": "#7f7f7f4d",
 		"editorError.foreground": "#e6725a",
 		"editorError.background": "#B73A3400",
@@ -2007,9 +2011,10 @@
 		"tab.activeBorderTop": "#ffffff00",
 		"tab.inactiveBackground": "#3b205a",
 		"tab.inactiveForeground": "#ffffff80",
-		"scrollbarSlider.background": "#79797966",
+		"scrollbar.shadow": "#000000",
+		"scrollbarSlider.background": "#C895DFCF",
 		"scrollbarSlider.hoverBackground": "#646464b3",
-		"scrollbarSlider.activeBackground": "#bfbfbf66",
+		"scrollbarSlider.activeBackground": "#c895df",
 		"progressBar.background": "#c895df",
 		"widget.shadow": "#0000005c",
 		"editorWidget.foreground": "#cccccc",
