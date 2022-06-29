@@ -72,7 +72,7 @@
 			"name": "support.function.std.rust",
 			"scope": "support.function.std.rust",
 			"settings": {
-				"foreground": "#a2d952"
+				"foreground": "#B352D9"
 			}
 		},
 		{
@@ -382,7 +382,7 @@
 			"name": "js console function",
 			"scope": "entity.name.function,support.function.console",
 			"settings": {
-				"foreground": "#a2d952"
+				"foreground": "#AA52D9"
 			}
 		},
 		{
@@ -604,7 +604,7 @@
 				"variable.function"
 			],
 			"settings": {
-				"foreground": "#a2d952"
+				"foreground": "#AA52D9"
 			}
 		},
 		{
