@@ -1292,17 +1292,17 @@
 			}
 		},
 		{
-			"name": "cs other variable",
-			"scope": "variable.other.cs",
+			"name": "cs parameter variable",
+			"scope": "entity.name.variable.property.cs",
 			"settings": {
 				"foreground": "#B1E4EE"
 			}
 		},
 		{
-			"name": "cs variable",
-			"scope": "field.declaration.cs",
+			"name": "cs field variable",
+			"scope": "entity.name.variable.field.cs",
 			"settings": {
-				"foreground": "#B1E4EE"
+				"foreground": "#68BDCE"
 			}
 		},
 		{
