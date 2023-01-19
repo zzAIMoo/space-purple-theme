@@ -1288,7 +1288,21 @@
 			"name": "cs local variable",
 			"scope": "entity.name.variable.local.cs",
 			"settings": {
-				"foreground": "#f55b7f"
+				"foreground": "#B1E4EE"
+			}
+		},
+		{
+			"name": "cs other variable",
+			"scope": "variable.other.cs",
+			"settings": {
+				"foreground": "#B1E4EE"
+			}
+		},
+		{
+			"name": "cs variable",
+			"scope": "field.declaration.cs",
+			"settings": {
+				"foreground": "#B1E4EE"
 			}
 		},
 		{
